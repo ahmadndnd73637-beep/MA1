@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /MA1/ar/checkout
+Disallow: /MA1/en/checkout
+Disallow: /MA1/ar/bag
+Disallow: /MA1/en/bag
+
+Sitemap: https://ahmadndnd73637-beep.github.io/MA1/sitemap.xml
