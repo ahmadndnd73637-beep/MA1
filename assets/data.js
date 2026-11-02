@@ -175,13 +175,13 @@ window.STORE_DATA = {
     "enabled": true,
     "address": "yourbrand@instapay",
     "holder": "",
-    "logo": ""
+    "logo": "/assets/pay/instapay.webp"
    },
    "vodafone": {
     "enabled": true,
     "number": "01000000000",
     "holder": "",
-    "logo": ""
+    "logo": "/assets/pay/vodafone-cash.webp"
    },
    "cod": {
     "enabled": true
