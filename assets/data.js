@@ -169,6 +169,23 @@ window.STORE_DATA = {
    "ownerWhatsapp": "",
    "notifyOnNewOrder": true,
    "notifyCustomerOnStatus": true
+  },
+  "payments": {
+   "instapay": {
+    "enabled": true,
+    "address": "yourbrand@instapay",
+    "holder": "",
+    "logo": ""
+   },
+   "vodafone": {
+    "enabled": true,
+    "number": "01000000000",
+    "holder": "",
+    "logo": ""
+   },
+   "cod": {
+    "enabled": true
+   }
   }
  },
  "categories": [
