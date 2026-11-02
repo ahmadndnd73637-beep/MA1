@@ -173,13 +173,13 @@ window.STORE_DATA = {
   "payments": {
    "instapay": {
     "enabled": true,
-    "address": "yourbrand@instapay",
+    "address": "01103385335",
     "holder": "",
     "logo": "/assets/pay/instapay.webp"
    },
    "vodafone": {
     "enabled": true,
-    "number": "01000000000",
+    "number": "01022776309",
     "holder": "",
     "logo": "/assets/pay/vodafone-cash.webp"
    },
