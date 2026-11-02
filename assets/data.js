@@ -100,7 +100,7 @@ window.STORE_DATA = {
      "ar": "بدأنا من فكرة بسيطة: لبس شارع مصري بجودة البراندات العالمية.\n\nكل قطعة بتتصمم وتتقص وتتخيط في مصر، بقطن تقيل يستحمل الاستعمال اليومي. بنشتغل بكميات محدودة، وبنهتم بالقصّة والخامة والتفاصيل الصغيرة اللي بتفرق.\n\nده نص مؤقت — غيّره من لوحة التحكم ← المحتوى.",
      "en": "We started with a simple idea: Egyptian streetwear made to the standard of international labels.\n\nEvery piece is designed, cut and sewn in Egypt from heavyweight cotton built for everyday wear. We produce in limited runs and obsess over cut, fabric and the small details.\n\nThis is placeholder text — edit it in Admin → Content."
     },
-    "image": "/images/editorial-2.webp"
+    "image": "https://images.unsplash.com/photo-1606501126768-b78d4569d3f9?auto=format&fit=crop&crop=entropy&w=1600&h=900&q=72"
    },
    "shipping": {
     "ar": "بنوصّل لكل محافظات مصر. مدة التوصيل من ١ لـ ٧ أيام عمل حسب المحافظة، ومصاريف الشحن بتظهر قبل ما تأكد الطلب.\n\nالدفع عند الاستلام متاح في كل المحافظات، وتقدر تعاين الشحنة قبل الدفع.",
@@ -177,7 +177,7 @@ window.STORE_DATA = {
    "slug": "t-shirts",
    "nameAr": "تيشيرتات",
    "nameEn": "T-Shirts",
-   "image": "/images/category-t-shirts.webp",
+   "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -186,7 +186,7 @@ window.STORE_DATA = {
    "slug": "oversized-t-shirts",
    "nameAr": "تيشيرتات أوفر سايز",
    "nameEn": "Oversized T-Shirts",
-   "image": "/images/category-oversized-t-shirts.webp",
+   "image": "https://images.unsplash.com/photo-1636047250452-6772f6144b3d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -195,7 +195,7 @@ window.STORE_DATA = {
    "slug": "hoodies",
    "nameAr": "هوديز",
    "nameEn": "Hoodies",
-   "image": "/images/category-hoodies.webp",
+   "image": "https://images.unsplash.com/photo-1677538537484-324385aff147?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -204,7 +204,7 @@ window.STORE_DATA = {
    "slug": "sweatshirts",
    "nameAr": "سويتشيرتات",
    "nameEn": "Sweatshirts",
-   "image": "/images/category-sweatshirts.webp",
+   "image": "https://images.unsplash.com/photo-1614975059251-992f11792b9f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -213,7 +213,7 @@ window.STORE_DATA = {
    "slug": "shirts",
    "nameAr": "قمصان",
    "nameEn": "Shirts",
-   "image": "/images/category-shirts.webp",
+   "image": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -222,7 +222,7 @@ window.STORE_DATA = {
    "slug": "pants",
    "nameAr": "بناطيل",
    "nameEn": "Pants",
-   "image": "/images/category-pants.webp",
+   "image": "https://images.unsplash.com/photo-1584302052153-623ee529b70c?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "aadd5fe7-e570-4b9b-9e0c-358b5f95f7e8",
    "showOnHome": true
   },
@@ -231,7 +231,7 @@ window.STORE_DATA = {
    "slug": "cargo-pants",
    "nameAr": "كارجو",
    "nameEn": "Cargo Pants",
-   "image": "/images/category-cargo-pants.webp",
+   "image": "https://images.unsplash.com/photo-1766575696324-5b65330f23c2?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "aadd5fe7-e570-4b9b-9e0c-358b5f95f7e8",
    "showOnHome": true
   },
@@ -240,7 +240,7 @@ window.STORE_DATA = {
    "slug": "shorts",
    "nameAr": "شورتات",
    "nameEn": "Shorts",
-   "image": "/images/category-shorts.webp",
+   "image": "https://images.unsplash.com/photo-1521567097888-2c5fc40a8660?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "aadd5fe7-e570-4b9b-9e0c-358b5f95f7e8",
    "showOnHome": true
   },
@@ -249,7 +249,7 @@ window.STORE_DATA = {
    "slug": "jackets",
    "nameAr": "جواكت",
    "nameEn": "Jackets",
-   "image": "/images/category-jackets.webp",
+   "image": "https://images.unsplash.com/photo-1576775068668-c147f14c36f7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -258,7 +258,7 @@ window.STORE_DATA = {
    "slug": "accessories",
    "nameAr": "إكسسوارات",
    "nameEn": "Accessories",
-   "image": "/images/category-accessories.webp",
+   "image": "https://images.unsplash.com/photo-1606453914790-b9be7cdb321f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": null,
    "showOnHome": true
   }
@@ -271,8 +271,8 @@ window.STORE_DATA = {
    "nameEn": "New Season",
    "descriptionAr": "تشكيلة خريف وشتا ٢٦ — خامات أتقل، ألوان أهدى، وقصّات أوسع.",
    "descriptionEn": "Autumn/Winter 26 — heavier fabrics, quieter colours, roomier cuts.",
-   "image": "/images/collection-new-season.webp",
-   "banner": "/images/collection-new-season.webp",
+   "image": "https://images.unsplash.com/photo-1586231912972-d0970f9ce787?auto=format&fit=crop&crop=entropy&w=1600&h=1200&q=72",
+   "banner": "https://images.unsplash.com/photo-1649114383220-c4f0f0dbafbe?auto=format&fit=crop&crop=entropy&w=2400&h=1000&q=72",
    "isLimited": false
   },
   {
@@ -282,8 +282,8 @@ window.STORE_DATA = {
    "nameEn": "Essentials",
    "descriptionAr": "القطع اللي بترجعلها كل يوم.",
    "descriptionEn": "The pieces you reach for every day.",
-   "image": "/images/editorial-2.webp",
-   "banner": "/images/editorial-3.webp",
+   "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&crop=entropy&w=1600&h=1200&q=72",
+   "banner": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&crop=entropy&w=2400&h=1000&q=72",
    "isLimited": false
   },
   {
@@ -293,8 +293,8 @@ window.STORE_DATA = {
    "nameEn": "Limited Drop 01",
    "descriptionAr": "كمية واحدة ومش هتتعاد. يوتيليتي بخامات تقنية.",
    "descriptionEn": "One run, never restocked. Utility pieces in technical fabrics.",
-   "image": "/images/editorial-1.webp",
-   "banner": "/images/editorial-3.webp",
+   "image": "https://images.unsplash.com/photo-1610392462690-84766bd687ca?auto=format&fit=crop&crop=entropy&w=1600&h=1200&q=72",
+   "banner": "https://images.unsplash.com/photo-1559406041-c7d2b2e98690?auto=format&fit=crop&crop=entropy&w=2400&h=1000&q=72",
    "isLimited": true
   },
   {
@@ -304,8 +304,8 @@ window.STORE_DATA = {
    "nameEn": "Oversized Collection",
    "descriptionAr": "أكتاف نازلة، أطوال مدروسة، وراحة من غير ما تبقى مبهدلة.",
    "descriptionEn": "Dropped shoulders, considered lengths, comfort without sloppiness.",
-   "image": "/images/editorial-2.webp",
-   "banner": "/images/editorial-3.webp",
+   "image": "https://images.unsplash.com/photo-1636047250452-6772f6144b3d?auto=format&fit=crop&crop=entropy&w=1600&h=1200&q=72",
+   "banner": "https://images.unsplash.com/photo-1689044611227-3267fabaf76a?auto=format&fit=crop&crop=entropy&w=2400&h=1000&q=72",
    "isLimited": false
   },
   {
@@ -315,8 +315,8 @@ window.STORE_DATA = {
    "nameEn": "Summer Collection",
    "descriptionAr": "خامات أخف وألوان فاتحة للحر.",
    "descriptionEn": "Lighter fabrics and lighter colours for the heat.",
-   "image": "/images/editorial-2.webp",
-   "banner": "/images/editorial-3.webp",
+   "image": "https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?auto=format&fit=crop&crop=entropy&w=1600&h=1200&q=72",
+   "banner": "https://images.unsplash.com/photo-1624353656309-8be1a6c457be?auto=format&fit=crop&crop=entropy&w=2400&h=1000&q=72",
    "isLimited": false
   },
   {
@@ -326,8 +326,8 @@ window.STORE_DATA = {
    "nameEn": "Winter Collection",
    "descriptionAr": "فليس، كانفاس وتريكو.",
    "descriptionEn": "Fleece, canvas and knit.",
-   "image": "/images/editorial-2.webp",
-   "banner": "/images/editorial-3.webp",
+   "image": "https://images.unsplash.com/photo-1606453914790-b9be7cdb321f?auto=format&fit=crop&crop=entropy&w=1600&h=1200&q=72",
+   "banner": "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?auto=format&fit=crop&crop=entropy&w=2400&h=1000&q=72",
    "isLimited": false
   }
  ],
@@ -522,15 +522,15 @@ window.STORE_DATA = {
    "createdAt": 1780676872441,
    "images": [
     {
-     "url": "/images/fleece-shorts-grey-1.webp",
+     "url": "https://images.unsplash.com/photo-1521567097888-2c5fc40a8660?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Grey melange"
     },
     {
-     "url": "/images/fleece-shorts-grey-2.webp",
+     "url": "https://images.unsplash.com/photo-1588117260148-b47818741c74?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Grey melange"
     },
     {
-     "url": "/images/fleece-shorts-grey-3.webp",
+     "url": "https://images.unsplash.com/photo-1632844384543-bb1b2c3900d7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Grey melange"
     }
    ],
@@ -626,15 +626,15 @@ window.STORE_DATA = {
    "createdAt": 1781540872393,
    "images": [
     {
-     "url": "/images/pocket-tee-olive-olive-1.webp",
+     "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/pocket-tee-olive-olive-2.webp",
+     "url": "https://images.unsplash.com/photo-1588117260148-b47818741c74?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/pocket-tee-olive-olive-3.webp",
+     "url": "https://images.unsplash.com/photo-1641320197434-6ae0ca235048?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     }
    ],
@@ -749,39 +749,39 @@ window.STORE_DATA = {
    "createdAt": 1783268872386,
    "images": [
     {
-     "url": "/images/classic-crew-tee-white-1.webp",
+     "url": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "White"
     },
     {
-     "url": "/images/classic-crew-tee-white-2.webp",
+     "url": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "White"
     },
     {
-     "url": "/images/classic-crew-tee-white-3.webp",
+     "url": "https://images.unsplash.com/photo-1651761179569-4ba2aa054997?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "White"
     },
     {
-     "url": "/images/classic-crew-tee-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/classic-crew-tee-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1599423843366-d5bbbe44b4cd?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/classic-crew-tee-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/classic-crew-tee-navy-1.webp",
+     "url": "https://images.unsplash.com/photo-1562157873-818bc0726f68?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Navy"
     },
     {
-     "url": "/images/classic-crew-tee-navy-2.webp",
+     "url": "https://images.unsplash.com/photo-1589902860314-e910697dea18?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Navy"
     },
     {
-     "url": "/images/classic-crew-tee-navy-3.webp",
+     "url": "https://images.unsplash.com/photo-1611242319342-ed0d65b1a0f0?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Navy"
     }
    ],
@@ -1004,15 +1004,15 @@ window.STORE_DATA = {
    "createdAt": 1784132872477,
    "images": [
     {
-     "url": "/images/canvas-tote-natural-1.webp",
+     "url": "https://images.unsplash.com/photo-1510853851847-5c02796e8c8a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Natural"
     },
     {
-     "url": "/images/canvas-tote-natural-2.webp",
+     "url": "https://images.unsplash.com/photo-1524404794194-16bae22718c0?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Natural"
     },
     {
-     "url": "/images/canvas-tote-natural-3.webp",
+     "url": "https://images.unsplash.com/photo-1640747669771-b82a6e40f534?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Natural"
     }
    ],
@@ -1081,27 +1081,27 @@ window.STORE_DATA = {
    "createdAt": 1784996872473,
    "images": [
     {
-     "url": "/images/six-panel-cap-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1635650804263-1a1941e14df5?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/six-panel-cap-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1691689761290-2641cf0fc59a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/six-panel-cap-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1660486044177-45cd45bb5e99?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/six-panel-cap-stone-1.webp",
+     "url": "https://images.unsplash.com/photo-1612887726773-e64e20cf08fe?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/six-panel-cap-stone-2.webp",
+     "url": "https://images.unsplash.com/photo-1589902860314-e910697dea18?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/six-panel-cap-stone-3.webp",
+     "url": "https://images.unsplash.com/photo-1578854955076-970394ef2512?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     }
    ],
@@ -1179,27 +1179,27 @@ window.STORE_DATA = {
    "createdAt": 1785860872420,
    "images": [
     {
-     "url": "/images/oxford-shirt-sky-1.webp",
+     "url": "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sky"
     },
     {
-     "url": "/images/oxford-shirt-sky-2.webp",
+     "url": "https://images.unsplash.com/photo-1589234217365-08d3e0e5cf42?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sky"
     },
     {
-     "url": "/images/oxford-shirt-sky-3.webp",
+     "url": "https://images.unsplash.com/photo-1740711152088-88a009e877bb?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sky"
     },
     {
-     "url": "/images/oxford-shirt-white-1.webp",
+     "url": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "White"
     },
     {
-     "url": "/images/oxford-shirt-white-2.webp",
+     "url": "https://images.unsplash.com/photo-1621072156002-e2fccdc0b176?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "White"
     },
     {
-     "url": "/images/oxford-shirt-white-3.webp",
+     "url": "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "White"
     }
    ],
@@ -1368,27 +1368,27 @@ window.STORE_DATA = {
    "createdAt": 1786724872426,
    "images": [
     {
-     "url": "/images/straight-pants-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1542406775-ade58c52d2e4?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/straight-pants-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1523585298601-d46ae038d7d3?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/straight-pants-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/straight-pants-stone-1.webp",
+     "url": "https://images.unsplash.com/photo-1626557981101-aae6f84aa6ff?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/straight-pants-stone-2.webp",
+     "url": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/straight-pants-stone-3.webp",
+     "url": "https://images.unsplash.com/photo-1606343131474-abc41dc6bb7d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     }
    ],
@@ -1539,39 +1539,39 @@ window.STORE_DATA = {
    "createdAt": 1787588872337,
    "images": [
     {
-     "url": "/images/essential-oversized-tee-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/essential-oversized-tee-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1636047250452-6772f6144b3d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/essential-oversized-tee-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/essential-oversized-tee-offwhite-1.webp",
+     "url": "https://images.unsplash.com/photo-1714070700737-24acfe6b957c?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Off-white"
     },
     {
-     "url": "/images/essential-oversized-tee-offwhite-2.webp",
+     "url": "https://images.unsplash.com/photo-1623596305214-19f21cbf48ee?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Off-white"
     },
     {
-     "url": "/images/essential-oversized-tee-offwhite-3.webp",
+     "url": "https://images.unsplash.com/photo-1606343131474-abc41dc6bb7d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Off-white"
     },
     {
-     "url": "/images/essential-oversized-tee-stone-1.webp",
+     "url": "https://images.unsplash.com/photo-1633966887768-64f9a867bdba?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/essential-oversized-tee-stone-2.webp",
+     "url": "https://images.unsplash.com/photo-1574180566232-aaad1b5b8450?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/essential-oversized-tee-stone-3.webp",
+     "url": "https://images.unsplash.com/photo-1632844384543-bb1b2c3900d7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     }
    ],
@@ -1795,27 +1795,27 @@ window.STORE_DATA = {
    "createdAt": 1788452872410,
    "images": [
     {
-     "url": "/images/crewneck-sweatshirt-navy-1.webp",
+     "url": "https://images.unsplash.com/photo-1614975059251-992f11792b9f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Navy"
     },
     {
-     "url": "/images/crewneck-sweatshirt-navy-2.webp",
+     "url": "https://images.unsplash.com/photo-1499971856191-1a420a42b498?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Navy"
     },
     {
-     "url": "/images/crewneck-sweatshirt-navy-3.webp",
+     "url": "https://images.unsplash.com/photo-1611242319342-ed0d65b1a0f0?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Navy"
     },
     {
-     "url": "/images/crewneck-sweatshirt-oatmeal-1.webp",
+     "url": "https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Oatmeal"
     },
     {
-     "url": "/images/crewneck-sweatshirt-oatmeal-2.webp",
+     "url": "https://images.unsplash.com/photo-1601063476271-a159c71ab0b3?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Oatmeal"
     },
     {
-     "url": "/images/crewneck-sweatshirt-oatmeal-3.webp",
+     "url": "https://images.unsplash.com/photo-1640747669771-b82a6e40f534?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Oatmeal"
     }
    ],
@@ -1985,27 +1985,27 @@ window.STORE_DATA = {
    "createdAt": 1789748872398,
    "images": [
     {
-     "url": "/images/core-hoodie-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1680292783974-a9a336c10366?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/core-hoodie-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1677538537484-324385aff147?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/core-hoodie-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1513789181297-6f2ec112c0bc?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/core-hoodie-grey-1.webp",
+     "url": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Grey melange"
     },
     {
-     "url": "/images/core-hoodie-grey-2.webp",
+     "url": "https://images.unsplash.com/photo-1564557287817-3785e38ec1f5?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Grey melange"
     },
     {
-     "url": "/images/core-hoodie-grey-3.webp",
+     "url": "https://images.unsplash.com/photo-1632844384543-bb1b2c3900d7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Grey melange"
     }
    ],
@@ -2176,27 +2176,27 @@ window.STORE_DATA = {
    "createdAt": 1791044872480,
    "images": [
     {
-     "url": "/images/rib-beanie-charcoal-1.webp",
+     "url": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Charcoal"
     },
     {
-     "url": "/images/rib-beanie-charcoal-2.webp",
+     "url": "https://images.unsplash.com/photo-1606453914790-b9be7cdb321f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Charcoal"
     },
     {
-     "url": "/images/rib-beanie-charcoal-3.webp",
+     "url": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Charcoal"
     },
     {
-     "url": "/images/rib-beanie-olive-1.webp",
+     "url": "https://images.unsplash.com/photo-1771315655628-1f94975e6190?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/rib-beanie-olive-2.webp",
+     "url": "https://images.unsplash.com/photo-1775805043561-832a11d75870?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/rib-beanie-olive-3.webp",
+     "url": "https://images.unsplash.com/photo-1576871337632-b9aef4c17ab9?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     }
    ],
@@ -2275,15 +2275,15 @@ window.STORE_DATA = {
    "createdAt": 1791908872469,
    "images": [
     {
-     "url": "/images/coach-jacket-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1622567893612-a5345baa5c9a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/coach-jacket-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1576775068668-c147f14c36f7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/coach-jacket-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1654719796836-62b889d4598d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     }
    ],
@@ -2380,27 +2380,27 @@ window.STORE_DATA = {
    "createdAt": 1792945672432,
    "images": [
     {
-     "url": "/images/utility-cargo-pants-olive-1.webp",
+     "url": "https://images.unsplash.com/photo-1511794322962-129ddbd0af38?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/utility-cargo-pants-olive-2.webp",
+     "url": "https://images.unsplash.com/photo-1766575696324-5b65330f23c2?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/utility-cargo-pants-olive-3.webp",
+     "url": "https://images.unsplash.com/photo-1649850874075-49e014357b9d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/utility-cargo-pants-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1584302052177-2e90841dad6a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/utility-cargo-pants-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1584302052153-623ee529b70c?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/utility-cargo-pants-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1645859610425-f0f4177df5f0?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     }
    ],
@@ -2552,27 +2552,27 @@ window.STORE_DATA = {
    "createdAt": 1793118472375,
    "images": [
     {
-     "url": "/images/heavyweight-boxy-tee-charcoal-1.webp",
+     "url": "https://images.unsplash.com/photo-1626781309887-cdfb9f258c64?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Charcoal"
     },
     {
-     "url": "/images/heavyweight-boxy-tee-charcoal-2.webp",
+     "url": "https://images.unsplash.com/photo-1599423843366-d5bbbe44b4cd?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Charcoal"
     },
     {
-     "url": "/images/heavyweight-boxy-tee-charcoal-3.webp",
+     "url": "https://images.unsplash.com/photo-1560796952-f1c9b838544c?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Charcoal"
     },
     {
-     "url": "/images/heavyweight-boxy-tee-sand-1.webp",
+     "url": "https://images.unsplash.com/photo-1627225924765-552d49cf47ad?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sand"
     },
     {
-     "url": "/images/heavyweight-boxy-tee-sand-2.webp",
+     "url": "https://images.unsplash.com/photo-1622445275463-afa2ab738c34?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sand"
     },
     {
-     "url": "/images/heavyweight-boxy-tee-sand-3.webp",
+     "url": "https://images.unsplash.com/photo-1640747669771-b82a6e40f534?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sand"
     }
    ],
@@ -2742,15 +2742,15 @@ window.STORE_DATA = {
    "createdAt": 1793204872437,
    "images": [
     {
-     "url": "/images/parachute-cargo-sand-sand-1.webp",
+     "url": "https://images.unsplash.com/photo-1776153627325-a5950e50b33a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sand"
     },
     {
-     "url": "/images/parachute-cargo-sand-sand-2.webp",
+     "url": "https://images.unsplash.com/photo-1766575694179-e159f786d2e3?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sand"
     },
     {
-     "url": "/images/parachute-cargo-sand-sand-3.webp",
+     "url": "https://images.unsplash.com/photo-1511794322962-129ddbd0af38?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Sand"
     }
    ],
@@ -2855,15 +2855,15 @@ window.STORE_DATA = {
    "createdAt": 1793291272404,
    "images": [
     {
-     "url": "/images/zip-hoodie-stone-stone-1.webp",
+     "url": "https://images.unsplash.com/photo-1548883354-94bcfe321cbb?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/zip-hoodie-stone-stone-2.webp",
+     "url": "https://images.unsplash.com/photo-1578768079052-aa76e52ff62e?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     },
     {
-     "url": "/images/zip-hoodie-stone-stone-3.webp",
+     "url": "https://images.unsplash.com/photo-1606343131474-abc41dc6bb7d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Stone"
     }
    ],
@@ -2978,27 +2978,27 @@ window.STORE_DATA = {
    "createdAt": 1793377672415,
    "images": [
     {
-     "url": "/images/utility-overshirt-olive-1.webp",
+     "url": "https://images.unsplash.com/photo-1611955874253-78c6c3959c41?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/utility-overshirt-olive-2.webp",
+     "url": "https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/utility-overshirt-olive-3.webp",
+     "url": "https://images.unsplash.com/photo-1497997092403-f091fcf5b6c4?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Olive"
     },
     {
-     "url": "/images/utility-overshirt-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1586231912972-d0970f9ce787?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/utility-overshirt-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1610392462690-84766bd687ca?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/utility-overshirt-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1560796952-f1c9b838544c?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     }
    ],
@@ -3167,27 +3167,27 @@ window.STORE_DATA = {
    "createdAt": 1793464072449,
    "images": [
     {
-     "url": "/images/work-jacket-brown-1.webp",
+     "url": "https://images.unsplash.com/photo-1578854955076-970394ef2512?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Brown"
     },
     {
-     "url": "/images/work-jacket-brown-2.webp",
+     "url": "https://images.unsplash.com/photo-1523398002811-999ca8dec234?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Brown"
     },
     {
-     "url": "/images/work-jacket-brown-3.webp",
+     "url": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Brown"
     },
     {
-     "url": "/images/work-jacket-black-1.webp",
+     "url": "https://images.unsplash.com/photo-1511742667815-af572199b23a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/work-jacket-black-2.webp",
+     "url": "https://images.unsplash.com/photo-1705514234104-b3cf64c3bf4e?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     },
     {
-     "url": "/images/work-jacket-black-3.webp",
+     "url": "https://images.unsplash.com/photo-1675877879221-871aa9f7c314?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
      "color": "Black"
     }
    ],
@@ -4341,8 +4341,8 @@ window.STORE_DATA = {
   {
    "type": "hero",
    "data": {
-    "image": "/images/hero.webp",
-    "mobileImage": "/images/hero-mobile.webp",
+    "image": "https://images.unsplash.com/photo-1649114383220-c4f0f0dbafbe?auto=format&fit=crop&crop=entropy&w=2400&h=1350&q=72",
+    "mobileImage": "https://images.unsplash.com/photo-1532332248682-206cc786359f?auto=format&fit=crop&crop=entropy&w=900&h=1500&q=72",
     "videoUrl": "",
     "eyebrow": {
      "ar": "خريف / شتا ٢٦",
@@ -4422,7 +4422,7 @@ window.STORE_DATA = {
   {
    "type": "campaign",
    "data": {
-    "image": "/images/editorial-3.webp",
+    "image": "https://images.unsplash.com/photo-1670092473608-47d146ea71b4?auto=format&fit=crop&crop=entropy&w=2400&h=1030&q=72",
     "title": {
      "ar": "دروب محدود ٠١",
      "en": "Limited Drop 01"
@@ -4442,7 +4442,7 @@ window.STORE_DATA = {
   {
    "type": "story",
    "data": {
-    "image": "/images/editorial-2.webp",
+    "image": "https://images.unsplash.com/photo-1630930678172-63343537a00a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
     "title": {
      "ar": "اتعمل هنا",
      "en": "Made here"
@@ -4468,27 +4468,27 @@ window.STORE_DATA = {
     "handle": "@yourbrand",
     "items": [
      {
-      "image": "/images/ig-1.webp",
+      "image": "https://images.unsplash.com/photo-1721637635502-b0abaaa75edb?auto=format&fit=crop&crop=entropy&w=600&h=600&q=72",
       "link": "https://instagram.com/"
      },
      {
-      "image": "/images/ig-2.webp",
+      "image": "https://images.unsplash.com/photo-1635650805023-f2529440b5aa?auto=format&fit=crop&crop=entropy&w=600&h=600&q=72",
       "link": "https://instagram.com/"
      },
      {
-      "image": "/images/ig-3.webp",
+      "image": "https://images.unsplash.com/photo-1628030328071-538b251a4455?auto=format&fit=crop&crop=entropy&w=600&h=600&q=72",
       "link": "https://instagram.com/"
      },
      {
-      "image": "/images/ig-4.webp",
+      "image": "https://images.unsplash.com/photo-1508216310976-c518daae0cdc?auto=format&fit=crop&crop=entropy&w=600&h=600&q=72",
       "link": "https://instagram.com/"
      },
      {
-      "image": "/images/ig-5.webp",
+      "image": "https://images.unsplash.com/photo-1721713168896-11db10d9740b?auto=format&fit=crop&crop=entropy&w=600&h=600&q=72",
       "link": "https://instagram.com/"
      },
      {
-      "image": "/images/ig-6.webp",
+      "image": "https://images.unsplash.com/photo-1635650804060-bb009bcb2ea5?auto=format&fit=crop&crop=entropy&w=600&h=600&q=72",
       "link": "https://instagram.com/"
      }
     ]
