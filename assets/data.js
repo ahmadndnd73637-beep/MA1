@@ -177,7 +177,7 @@ window.STORE_DATA = {
    "slug": "t-shirts",
    "nameAr": "تيشيرتات",
    "nameEn": "T-Shirts",
-   "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -186,7 +186,7 @@ window.STORE_DATA = {
    "slug": "oversized-t-shirts",
    "nameAr": "تيشيرتات أوفر سايز",
    "nameEn": "Oversized T-Shirts",
-   "image": "https://images.unsplash.com/photo-1636047250452-6772f6144b3d?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -195,7 +195,7 @@ window.STORE_DATA = {
    "slug": "hoodies",
    "nameAr": "هوديز",
    "nameEn": "Hoodies",
-   "image": "https://images.unsplash.com/photo-1677538537484-324385aff147?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1680292783974-a9a336c10366?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -204,7 +204,7 @@ window.STORE_DATA = {
    "slug": "sweatshirts",
    "nameAr": "سويتشيرتات",
    "nameEn": "Sweatshirts",
-   "image": "https://images.unsplash.com/photo-1614975059251-992f11792b9f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1499971856191-1a420a42b498?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -213,7 +213,7 @@ window.STORE_DATA = {
    "slug": "shirts",
    "nameAr": "قمصان",
    "nameEn": "Shirts",
-   "image": "https://images.unsplash.com/photo-1607345366928-199ea26cfe3e?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1602810316693-3667c854239a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -222,7 +222,7 @@ window.STORE_DATA = {
    "slug": "pants",
    "nameAr": "بناطيل",
    "nameEn": "Pants",
-   "image": "https://images.unsplash.com/photo-1584302052153-623ee529b70c?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1584302052177-2e90841dad6a?auto=format&fit=crop&crop=bottom&w=900&h=1125&q=72",
    "sizeChartId": "aadd5fe7-e570-4b9b-9e0c-358b5f95f7e8",
    "showOnHome": true
   },
@@ -231,7 +231,7 @@ window.STORE_DATA = {
    "slug": "cargo-pants",
    "nameAr": "كارجو",
    "nameEn": "Cargo Pants",
-   "image": "https://images.unsplash.com/photo-1766575696324-5b65330f23c2?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1511794322962-129ddbd0af38?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "aadd5fe7-e570-4b9b-9e0c-358b5f95f7e8",
    "showOnHome": true
   },
@@ -240,7 +240,7 @@ window.STORE_DATA = {
    "slug": "shorts",
    "nameAr": "شورتات",
    "nameEn": "Shorts",
-   "image": "https://images.unsplash.com/photo-1521567097888-2c5fc40a8660?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1521567097888-2c5fc40a8660?auto=format&fit=crop&crop=bottom&w=900&h=1125&q=72",
    "sizeChartId": "aadd5fe7-e570-4b9b-9e0c-358b5f95f7e8",
    "showOnHome": true
   },
@@ -249,7 +249,7 @@ window.STORE_DATA = {
    "slug": "jackets",
    "nameAr": "جواكت",
    "nameEn": "Jackets",
-   "image": "https://images.unsplash.com/photo-1576775068668-c147f14c36f7?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1622567893612-a5345baa5c9a?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": "20bd2ed6-3c4e-4364-8ce5-197b210179b7",
    "showOnHome": true
   },
@@ -258,7 +258,7 @@ window.STORE_DATA = {
    "slug": "accessories",
    "nameAr": "إكسسوارات",
    "nameEn": "Accessories",
-   "image": "https://images.unsplash.com/photo-1606453914790-b9be7cdb321f?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
+   "image": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?auto=format&fit=crop&crop=entropy&w=900&h=1125&q=72",
    "sizeChartId": null,
    "showOnHome": true
   }
