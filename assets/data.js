@@ -4359,7 +4359,7 @@ window.STORE_DATA = {
    "type": "hero",
    "data": {
     "image": "https://images.unsplash.com/photo-1649114383220-c4f0f0dbafbe?auto=format&fit=crop&crop=entropy&w=2400&h=1350&q=72",
-    "mobileImage": "https://images.unsplash.com/photo-1532332248682-206cc786359f?auto=format&fit=crop&crop=entropy&w=900&h=1500&q=72",
+    "mobileImage": "https://images.unsplash.com/photo-1649114383220-c4f0f0dbafbe?auto=format&fit=crop&crop=focalpoint&fp-x=0.47&fp-y=0.5&w=900&h=1500&q=72",
     "videoUrl": "",
     "eyebrow": {
      "ar": "خريف / شتا ٢٦",
