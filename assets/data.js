@@ -170,6 +170,12 @@ window.STORE_DATA = {
    "notifyOnNewOrder": true,
    "notifyCustomerOnStatus": true
   },
+  "welcomeOffer": {
+   "enabled": true,
+   "code": "WELCOME10",
+   "minutes": 30,
+   "delaySeconds": 4
+  },
   "payments": {
    "instapay": {
     "enabled": true,
